@@ -29,8 +29,6 @@ The goal is to build a machine learning model to classify iris flowers into thre
 
 **Best Model:** KNN (Tuned) with 93.33% test accuracy
 
----
-
 ## 🔍 Key Findings
 - Petal length and petal width are the most discriminative features
 - Setosa is clearly separable from other species
@@ -38,15 +36,10 @@ The goal is to build a machine learning model to classify iris flowers into thre
 - The dataset is clean and perfectly balanced
 - Cross-validation and hyperparameter tuning improved model performance
 
----
-
 ## 🛠️ Tech Stack
 - **Language:** Python 3.7+
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, joblib
 - **Environment:** Jupyter Notebook
-
----
-
 
 ## Author
 **Mina Fatima**  
