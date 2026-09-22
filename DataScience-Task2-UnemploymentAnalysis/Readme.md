@@ -142,3 +142,10 @@ The analysis is designed to identify:
 Detailed observations and interpretations are provided within the Jupyter Notebook after the corresponding visualizations.
 
 ---
+
+👩‍💻 Author
+
+Mina Fatima
+
+Data Science Internship Project
+Oasis Infobyte
